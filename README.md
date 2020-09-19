@@ -1,2 +1,1 @@
-# rsschool-cv
-task Markdown and Git
+https://nikaver.github.io/rsschool-cv/cv
